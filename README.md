@@ -1,2 +1,2 @@
 # practice
-This is a repository of my code practice~
+This is my code practice files~
